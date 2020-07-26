@@ -1,6 +1,6 @@
 ### Hi there, I'm Yusuf! 👋
 
-My name is Yusuf, i am a highschool senior with a passion for software 
+Hi Hello I,m Yusuf, i am a highschool senior with a passion for software 
 
 - 🔭 I’m currently working on my projects [Ship](https://github.com/yusuf8ahmed/Ship), [Airman](https://github.com/yusuf8ahmed/Airman)
 - 🌱 I’m currently learning -> Python, SQL & much more
