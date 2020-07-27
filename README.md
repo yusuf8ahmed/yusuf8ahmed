@@ -1,10 +1,10 @@
 ### Hi there, I'm Yusuf! 👋
 
-Hi Hello I,m Yusuf, i am a highschool senior with a passion for software 
+Hello I'm Yusuf, i am a highschool senior with a passion for building software products
 
 - 🔭 I’m currently working on my projects [Ship](https://github.com/yusuf8ahmed/Ship), [Airman](https://github.com/yusuf8ahmed/Airman)
-- 🌱 I’m currently learning -> Python, SQL & much more
-- 👯 I’m looking to collaborate on -> [Ship](https://github.com/yusuf8ahmed/Ship)
+- 🌱 I’m currently learning Python, SQL & much more
+- 👯 I’m looking to collaborate on [Ship](https://github.com/yusuf8ahmed/Ship)
 - 💬 Ask me about anything [Here](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)
 
 <!--
