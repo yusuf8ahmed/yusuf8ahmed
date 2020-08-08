@@ -8,6 +8,18 @@ I am a highschool senior with a passion for building software products.
 - 💬 Ask me about anything [Here](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)
 
 <!--
+- 🔭 I’m currently working on my projects [Ship](https://github.com/yusuf8ahmed/Ship), [Airman](https://github.com/yusuf8ahmed/Airman)
+- 🌱 I’m currently learning Python, SQL & much more
+- ℹ️ Major Projects ([Any Ideas](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)):
+  - pydb: key-value database written in pure python (Coding Challenge)
+  - ship: transfer files anywhere and everywhere easily with ship uses Python3
+  - airman: a secure messaging web app with a simple design uses flask, postgresql, redis and socket.io 
+  - creed*: cross-platform toast notifier uses Python, C#, Powershell, Pyobjc/rubicon-objc and PyGObject
+  - Casanova: ktracer micro service designed to extract data from IPV6 address
+  - Unsplasher: Better Background for Windows 10 uses Python3 and Unsplash API
+  - ktracer: api for the game krunker uses Express.js and Google Firebase
+-->
+<!--
 **yusuf8ahmed/yusuf8ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
