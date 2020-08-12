@@ -2,6 +2,10 @@
 
 I am a highschool senior with a passion for building software products.
 
+I am the stone that the builder refused. I am the visual, the inspiration
+That made Lady sing the blues. I'm the spark that makes your idea bright
+The same spark that lights the dark. So that you can know your left from your right
+
 - 🔭 I’m currently working on my projects [Ship](https://github.com/yusuf8ahmed/Ship), [Airman](https://github.com/yusuf8ahmed/Airman)
 - 🌱 I’m currently learning Python, SQL & much more
 - 👯 I’m looking to collaborate on [Ship](https://github.com/yusuf8ahmed/Ship)
