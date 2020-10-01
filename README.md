@@ -2,7 +2,7 @@
 
 I am a highschool senior with a passion for building software products.
 
-- 🔭 I’m currently working on my projects creating a world class stock trading plaform and a sass business
+- 🔭 I’m currently working on my creating a stock trading interface and a sass business
 - 🌱 I’m currently learning Python, SQL & much more
 - 🏆 Major Projects - ([Got Any Ideas?](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)):
   - [randomemojis](https://github.com/yusuf8ahmed/RandomEmojis): Generate a random emojis where the limit is { emoji ∈ R+}
