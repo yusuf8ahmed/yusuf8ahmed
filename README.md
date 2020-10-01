@@ -10,11 +10,9 @@ I am a highschool senior with a passion for building software products.
   - [ship](https://github.com/yusuf8ahmed/Ship): transfer files anywhere and everywhere easily with ship uses Python3
   - [airman](https://github.com/yusuf8ahmed/Airman): a secure messaging web app with a simple design uses flask, postgresql, redis and socket.io 
   - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses Python, C#, Powershell, Pyobjc/rubicon-objc and PyGObject
-  - [casanova](https://github.com/yusuf8ahmed/Casanova): ktracer micro-service designed to extract additional data from IPV6 address
-  - [unsplasher](https://github.com/yusuf8ahmed/Unsplasher): Better Background for Windows 10 uses Python3 and Unsplash API
   - [ktracer](https://github.com/yusuf8ahmed/ktracer): api for the game krunker uses Express.js and Google Firebase with (almost 5000 requests peak)
   
-**almost 10,000 people have download my libraries/applications on pip**
+almost **10,000 people have downloaded** my libraries/applications
 
 
 <!-- Hidden
