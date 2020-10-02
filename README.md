@@ -4,7 +4,7 @@ I am a highschool senior with a passion for building software products.
 
 - 🔭 I’m currently working on my creating a stock trading interface and a sass business
 - 🌱 I’m currently learning Python, SQL & much more
-- 🌟 ** Over 10,000 people have downloaded** my libraries/applications
+- 🌟 **Over 10,000 people have downloaded** my libraries/applications
 - 🏆 Major Projects - ([Got Any Ideas?](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)):
   - [randomemojis](https://github.com/yusuf8ahmed/RandomEmojis): Generate a random emojis where the limit is { emoji ∈ R+}
   - [hawkdb](https://github.com/yusuf8ahmed/HawkDB): key-value database written in pure python (Coding Challenge)
