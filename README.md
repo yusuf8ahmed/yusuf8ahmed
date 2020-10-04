@@ -6,9 +6,9 @@ I am a highschool senior with a passion for building software products.
 - 🌱 I’m currently learning Python, SQL & much more
 - 🌟 **Over 10,000 people have downloaded** my libraries/applications
 - 🏆 Major Projects - ([Got Any Ideas?](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)):
+  - [ship](https://github.com/yusuf8ahmed/Ship): transfer files anywhere and everywhere easily with ship uses Python3
   - [randomemojis](https://github.com/yusuf8ahmed/RandomEmojis): Generate a random emojis where the limit is { emoji ∈ R+}
   - [hawkdb](https://github.com/yusuf8ahmed/HawkDB): key-value database written in pure python (Coding Challenge)
-  - [ship](https://github.com/yusuf8ahmed/Ship): transfer files anywhere and everywhere easily with ship uses Python3
   - [airman](https://github.com/yusuf8ahmed/Airman): a secure messaging web app with a simple design uses flask, postgresql, redis and socket.io 
   - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses Python, C#, Powershell, Pyobjc/rubicon-objc and PyGObject
   - [ktracer](https://github.com/yusuf8ahmed/ktracer): api for the game krunker uses Express.js and Google Firebase with (almost 5000 requests peak)
