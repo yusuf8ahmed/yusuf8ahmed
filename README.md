@@ -1,10 +1,17 @@
 ### Hi there, I'm Yusuf! 👋
 
-I am a highschool senior with a passion for building software products.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Yusuf</h1>
+<h3 align="center">highschool senior with a passion for building software products.</h3>
+
 
 - 🔭 I’m currently working on my creating a stock trading interface and a sass business
+
 - 🌱 I’m currently learning Python, SQL & much more
+
+- ⚡ Fun fact **I started coding when i was 12 years old 👶**
+
 - 🌟 **Over 10,000 people have downloaded** my libraries/applications
+
 - 🏆 Major Projects - ([Got Any Ideas?](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)):
   - [ship](https://github.com/yusuf8ahmed/Ship): transfer files anywhere and everywhere easily with ship uses Python3
   - [randomemojis](https://github.com/yusuf8ahmed/RandomEmojis): Generate a random emojis where the limit is { emoji ∈ R+}
