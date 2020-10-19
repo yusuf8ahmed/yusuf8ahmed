@@ -22,6 +22,8 @@
   - [airman](https://github.com/yusuf8ahmed/Airman): a secure messaging web app with a simple design uses flask, postgresql, redis and socket.io 
   - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses Python, C#, Powershell, Pyobjc/rubicon-objc and PyGObject
   - [ktracer](https://github.com/yusuf8ahmed/ktracer): api for the game krunker uses Express.js and Google Firebase with (almost 5000 requests peak)
+    
+the **law of life**, is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and forgiveness that is the only way to pass the test of life, that is **law of life**  
 
 <!-- Hidden
 I am the stone that the builder refused. I am the visual, the inspiration <br>
