@@ -7,7 +7,7 @@
 <h3 align="center">highschool senior with a passion for building software products.</h3>
 
 
-- 🔭 I’m currently working on my creating a stock trading interface and a sass business
+- 🔭 I’m currently working on my creating a stock trading interface and a saas business
 
 - 🌱 I’m currently learning Python, SQL & much more
 
@@ -23,7 +23,7 @@
   - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses Python, C#, Powershell, Pyobjc/rubicon-objc and PyGObject
   - [ktracer](https://github.com/yusuf8ahmed/ktracer): api for the game krunker uses Express.js and Google Firebase with (almost 5000 requests peak)
     
-the **law of life**, is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and forgiveness that is the only way to pass the test of life, that is **law of life**  
+The **law of life** is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and respect, you will pass the test of life.
 
 <div align="center">
   <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/> 
