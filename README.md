@@ -25,7 +25,18 @@
     
 the **law of life**, is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and forgiveness that is the only way to pass the test of life, that is **law of life**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf8ahmed" alt="" /> </p>
+<div align="center">
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="30" height="30"/>  
+  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/> 
+  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/js.svg' width='30'/>   
+  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> 
+  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/bootstrap.svg' width='33'/> 
+  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/flask.png' width='30'/> 
+  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> 
+  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/>
+</div>
+
+<br>
 
 <!-- Hidden
 I am the stone that the builder refused. I am the visual, the inspiration <br>
