@@ -25,6 +25,8 @@
     
 the **law of life**, is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and forgiveness that is the only way to pass the test of life, that is **law of life**  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf8ahmed" alt="" /> </p>
+
 <!-- Hidden
 I am the stone that the builder refused. I am the visual, the inspiration <br>
 That made lady sing the blues. I'm the spark that makes your idea bright <br>
