@@ -2,9 +2,17 @@
 <div id="hi--im-yusuf">
 </div>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Yusuf</h1>
+<h1 align="center">Hi there, I'm Yusuf<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 <h3 align="center">highschool senior with a passion for building software products.</h3>
+
+<p align='center'>
+   <a href="https://www.linkedin.com/in/yusuf8ahmed">
+     <img height="30" src="https://github.com/yusuf8ahmed/mayHemant/blob/master/linkedin.png?raw=true">
+  </a>
+  <a href="https://twitter.com/yusuf88ahmed">
+    <img height="30" src="https://github.com/yusuf8ahmed/mayHemant/blob/master/twitter.png?raw=true">
+  </a>
+</p>
 
 
 - 🔭 I’m currently working on my creating a stock trading interface and a saas business
