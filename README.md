@@ -15,11 +15,11 @@
 </p>
 
 
-- 🔭 I’m currently working on my creating a stock trading interface and a saas business
+- 🔭 I’m currently working on my creating a stock trading interface and a SaaS business
 
 - 🌱 I’m currently learning Python, SQL & much more
 
-- ⚡ Fun fact **I started coding when i was 12 years old 👶**
+- ⚡ Fun fact **I started coding when I was 12 years old 👶**
 
 - 🌟 **Over 10,000 people have downloaded** my libraries/applications
 
