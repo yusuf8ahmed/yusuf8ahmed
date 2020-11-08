@@ -33,14 +33,17 @@
     
 The **law of life** is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and respect, you will pass the test of life.
 
-<div align="center">
-  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/> 
-  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/js.svg' width='30'/>   
-  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/flask.png' width='30'/> 
-  <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="30" height="30"/>  
-  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> 
-  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/>
-  <img src='https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> 
+
+<div align="center">   
+   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50'/> 
+   <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' width='50'/> 
+   <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width='50'/> 
+   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='50'/> 
+   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="50"> 
+   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50'/> 
+   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' width='50'/> 
+   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' width='50'/> 
+   <img src='https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg' width='50'/>    
 </div>
 
 <br>
