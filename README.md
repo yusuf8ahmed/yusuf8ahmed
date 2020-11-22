@@ -28,7 +28,7 @@
   - [randomemojis](https://github.com/yusuf8ahmed/RandomEmojis): Generate a random emojis where the limit is { emoji ∈ R+}
   - [hawkdb](https://github.com/yusuf8ahmed/HawkDB): key-value database written in pure python (Coding Challenge)
   - [airman](https://github.com/yusuf8ahmed/Airman): a secure messaging web app with a simple design uses flask, postgresql, redis and socket.io 
-  - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses Python, C#, Powershell, Pyobjc/rubicon-objc and PyGObject
+  - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses  C#, C, Obj-C, Python, Powershell, PyObj-C/Rubicon-Obj-C and PyGObject
   - [ktracer](https://github.com/yusuf8ahmed/ktracer): api for the game krunker uses Express.js and Google Firebase with (almost 8000 requests peak)
     
 The **law of life** is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and respect, you will pass the test of life.
