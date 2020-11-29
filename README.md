@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Yusuf<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">highschool senior with a passion for building software products.</h3>
+<h3 align="center">Highschool senior with a passion for building software products.</h3>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/yusuf8ahmed">
@@ -14,8 +14,9 @@
   </a>
 </p>
 
+- 💼 Got any internships? Hire me! 
 
-- 🔭 I’m currently working on my creating a stock trading interface and a SaaS business
+- 🔭 I’m currently working on creating a stock trading interface and a SaaS business
 
 - 🌱 I’m currently learning Python, SQL & much more
 
