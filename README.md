@@ -25,8 +25,10 @@
 - 🌟 **Over 10,000 people have downloaded** my libraries/applications
 
 - 🏆 Major Projects - ([Got Any Ideas?](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)):
+  - [Wsimple](https://github.com/yusuf8ahmed/Wsimple): Python API interface for Wealthsimple Trade
+  - [Wasmite](https://github.com/yusuf8ahmed/Wasmite): make sure you WebAssembly modules are production-ready using Wasmite
   - [ship](https://github.com/yusuf8ahmed/Ship): transfer files anywhere and everywhere easily with ship uses Python3
-  - [randomemojis](https://github.com/yusuf8ahmed/RandomEmojis): Generate a random emojis where the limit is { emoji ∈ R+}
+  - [randomemojis](https://github.com/yusuf8ahmed/RandomEmojis): Generate a random emojis where the limit is { emoji ∈ R+ }
   - [hawkdb](https://github.com/yusuf8ahmed/HawkDB): key-value database written in pure python (Coding Challenge)
   - [airman](https://github.com/yusuf8ahmed/Airman): a secure messaging web app with a simple design uses flask, postgresql, redis and socket.io 
   - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses  C#, C, Obj-C, Python, Powershell, PyObj-C/Rubicon-Obj-C and PyGObject
