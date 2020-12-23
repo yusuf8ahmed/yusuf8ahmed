@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I started coding when I was 12 years old 👶**
 
-- 🌟 **Over 10,000 people have downloaded** my libraries/applications
+- 🌟 **Over 20,000 people have downloaded** my libraries/applications
 
 - 🏆 Major Projects - ([Got Any Ideas?](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)):
   - [Wsimple](https://github.com/yusuf8ahmed/Wsimple): Python API interface for Wealthsimple Trade
