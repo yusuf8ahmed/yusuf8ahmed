@@ -2,25 +2,23 @@
 <div id="hi--im-yusuf">
 </div>
 
-<h1 align="center">Hi there, I'm Yusuf<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
-<h3 align="center">Highschool senior with a passion for building software products.</h3>
+<h1 align="center">Hi there, I'm Yusuf <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /></h1>
+<h3 align="center">University Freshman with a passion for building software products.</h3>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/yusuf8ahmed">
      <img height="30" src="https://github.com/yusuf8ahmed/mayHemant/blob/master/linkedin.png?raw=true">
   </a>
+   
   <a href="https://twitter.com/yusuf88ahmed">
     <img height="30" src="https://github.com/yusuf8ahmed/mayHemant/blob/master/twitter.png?raw=true">
   </a>
 </p>
 
-- 💼 Got any internships? Hire me! 
 
-- 🔭 I’m currently working on creating a stock trading interface and a SaaS business
+- 💼 Currently Ξ Blockchain dev @ Shopify 
 
-- 🌱 I’m currently learning Python, SQL & much more
-
-- ⚡ Fun fact **I started coding when I was 12 years old 👶**
+- ⚡ Fun fact **I started coding when I was 15 years old 👶**
 
 - 🌟 **Over 20,000 people have downloaded** my libraries/applications
 
@@ -28,10 +26,9 @@
   - [Wsimple](https://github.com/yusuf8ahmed/Wsimple): Python API interface for Wealthsimple Trade
   - [Wasmite](https://github.com/yusuf8ahmed/Wasmite): make sure you WebAssembly modules are production-ready using Wasmite
   - [ship](https://github.com/yusuf8ahmed/Ship): transfer files anywhere and everywhere easily with ship uses Python3
-  - [randomemojis](https://github.com/yusuf8ahmed/RandomEmojis): Generate a random emojis where the limit is { emoji ∈ R+ }
   - [hawkdb](https://github.com/yusuf8ahmed/HawkDB): key-value database written in pure python (Coding Challenge)
   - [airman](https://github.com/yusuf8ahmed/Airman): a secure messaging web app with a simple design uses flask, postgresql, redis and socket.io 
-  - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses  C#, C, Obj-C, Python, Powershell, PyObj-C/Rubicon-Obj-C and PyGObject
+  - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses C#, C, Obj-C, Python, Powershell, PyObj-C and PyGObject
   - [ktracer](https://github.com/yusuf8ahmed/ktracer): API for the game krunker uses Express.js and Google Firebase
     
 The **law of life** is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and respect, you will pass the test of life.
