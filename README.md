@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Yusuf <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /></h1>
-<h3 align="center">University Freshman with a passion for building software products.</h3>
+<h3 align="center">I'm a developer with a passion for data and financial technology.</h3>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/yusuf8ahmed">
@@ -15,22 +15,12 @@
   </a>
 </p>
 
-
-- 💼 Currently Ξ Blockchain dev @ Shopify 
+- 💼 Currently Backend Engineer @ Shopify 
 
 - ⚡ Fun fact **I started coding when I was 15 years old 👶**
 
 - 🌟 **Over 20,000 people have downloaded** my libraries/applications
 
-- 🏆 Major Projects - ([Got Any Ideas?](https://github.com/yusuf8ahmed/yusuf8ahmed/issues)):
-  - [Wsimple](https://github.com/yusuf8ahmed/Wsimple): Python API interface for Wealthsimple Trade
-  - [Wasmite](https://github.com/yusuf8ahmed/Wasmite): make sure you WebAssembly modules are production-ready using Wasmite
-  - [ship](https://github.com/yusuf8ahmed/Ship): transfer files anywhere and everywhere easily with ship uses Python3
-  - [hawkdb](https://github.com/yusuf8ahmed/HawkDB): key-value database written in pure python (Coding Challenge)
-  - [airman](https://github.com/yusuf8ahmed/Airman): a secure messaging web app with a simple design uses flask, postgresql, redis and socket.io 
-  - [creed](https://github.com/yusuf8ahmed/Creed): cross-platform toast notifier uses C#, C, Obj-C, Python, Powershell, PyObj-C and PyGObject
-  - [ktracer](https://github.com/yusuf8ahmed/ktracer): API for the game krunker uses Express.js and Google Firebase
-    
 The **law of life** is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and respect, you will pass the test of life.
 
 
