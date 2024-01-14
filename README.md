@@ -15,14 +15,13 @@
   </a>
 </p>
 
-- 💼 Currently Backend Engineer @ Shopify 
+- 💼 Currently Tax Engineer @ Shopify 
 
 - ⚡ Fun fact **I started coding when I was 15 years old 👶**
 
 - 🌟 **Over 20,000 people have downloaded** my libraries/applications
 
-The **law of life** is that you have two choices, either serve yourself or serve others. If you serve yourself you're not gonna pass the test of life. If you serve others with love and respect, you will pass the test of life.
-
+"Desires make slaves out of kings and patience makes kings out of slaves." - Ghazali
 
 <div align="center">   
    <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50'/> 
