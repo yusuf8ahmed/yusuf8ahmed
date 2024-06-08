@@ -45,3 +45,19 @@ The same spark that lights the dark. So that you can know your left from your ri
 
 <!--
 **yusuf8ahmed/yusuf8ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+```math
+\mmlToken{ms}[fontfamily="
+goombafont;
+color:black;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: fill;
+width: 10000vw;
+height: 10000vh;
+opacity: 0.71;
+background: url('https://i.giphy.com/YTtqB2j5EN7IA.webp');
+"]{}
