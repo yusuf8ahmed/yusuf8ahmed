@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 💼 Currently Tax Engineer @ Shopify 
+- 💼 Currently Risk @ Shopify 
 
 - ⚡ Fun fact **I started coding when I was 15 years old 👶**
 
